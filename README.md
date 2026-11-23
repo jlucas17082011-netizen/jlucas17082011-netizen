@@ -1,4 +1,4 @@
-Sistema de cadastro de usuário.
+Sistema de cadastro de pessoas.
 
 <!--
 **jlucas17082011-netizen/jlucas17082011-netizen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
